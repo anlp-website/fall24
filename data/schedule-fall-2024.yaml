@@ -25,7 +25,7 @@ tableRows:
 
     Homework:
       - "HW1 out 8/30"
-    Quizzes: "Quiz 1 | week 1| out 8/23 - due 8/306"
+    Quizzes: "Quiz 1 | week 1| out 8/23 - due 8/30"
     Readings:
       - "Chapter 2.2 Introduction to Natural Language Processing by Jacob Eisenstein"  
 
@@ -44,7 +44,7 @@ tableRows:
       - "Logistic Regression"
       - "SVM"
       - "Perceptron"
-    Quizzes: "Quiz 2 | week 2| out 8/30 - due 9/13"
+    Quizzes: "Quiz 2 | week 2| out 9/06 - due 9/13"
     Readings:
       - "Chapters 2.3, 2.4, 2.5 Introduction to Natural Language Processing by Jacob Eisenstein."
     Homework:
@@ -77,7 +77,7 @@ tableRows:
     Homework:
       - "**HW2 due 10/04**"
       - "HW3 out 10/04"
-    Quizzes: "Quiz 4 | week 5| out 9/20 - due 10/04"
+    Quizzes: "Quiz 4 | week 5| out 9/27 - due 10/04"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
       - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
@@ -127,7 +127,7 @@ tableRows:
       - "Transformer models"
       - "Examples: BERT(Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) "
  
-    Quizzes: "Quiz 7 | week 10| out 10/18 - due 11/01"
+    Quizzes: "Quiz 7 | week 10| out 10/25 - due 11/01"
     Readings:
       - "[Attention Is All You Need](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiPtd7Y9IWAAxU2JkQIHW1EDKIQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1706.03762&usg=AOvVaw2ceXGQohV5Kx51VSkfkG08&opi=89978449);"
       - "[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj3vITv9IWAAxUkOkQIHYjkApEQFnoECA0QAQ&url=https%3A%2F%2Farxiv.org%2Fabs%2F1810.04805&usg=AOvVaw14sm9MmA6c9pcfLHgrP9Pk&opi=89978449);"
