@@ -21,8 +21,8 @@ We do not release solutions for homework.
 
 ## Quizzes (15%)
 
-There will be 10 quizzes throughout the semester on <strong>Canvas</strong>, and all the quizzes are <strong>mandatory</strong> to take even the knowledge-base quiz (Quiz 0).
-- Each quiz will have 1.5% of your final score.
+There will be 11 graded quizzes throughout the semester on <strong>Canvas</strong>, and all the quizzes are <strong>mandatory</strong> to take even the knowledge-base quiz (Quiz 0).
+- We will drop the lowest quiz grade so that 10 quizzes count towards your grade. Each quiz will have 1.5% of your final score.
 - If you fail to take a quiz, you will be penalized by losing 3% of your course score instead of 1.5%. As taking all quizzes is mandatory.
 - The topic of each quiz will coincide with the contents covered in lectures on the specified weeks. Make sure to watch and study any materials for each week module, i.e. vidoes, tutorial videos, pdfs,etc.
 - Quizzes will have a duration of <strong> seven-minutes </strong> for students. Each quiz will have five multiple choice questions. Check the course schedule table for when quizzes will be out and due. Any possible changes on quizzes dates will be reflected on our course schdule page. Please make sure to check our class website before taking the quiz.
