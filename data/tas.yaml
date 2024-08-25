@@ -13,9 +13,13 @@ people:
     email: "rwang415@gatech.edu"
     picture: "/profiles/rw.png"
   - 44:
-    name: "Danrong Zhang"
-    email: "dzhang373@gatech.edu"
-    picture: "/profiles/dz.png"    
+    name: "Matthew Peng"
+    email: "hpeng73@gatech.edu"
+    picture: "/profiles/hp.png"      
+  - 45:
+    name: "Neil Killgore"
+    email: "ckillgore3@gatech.edu"
+    picture: "/profiles/nk.png"    
   # - 45:
     # name: "Xian Mae Diego Hadia"
     # email: "xhadia3@gatech.edu"
