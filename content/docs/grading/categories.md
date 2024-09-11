@@ -13,7 +13,7 @@ We have 4 big assignments in total (subject to change). Visit this course's Grad
 - [20%] HW2: Week 4 to Week 7 topics
 - [20%] HW3: Week 8 to Week 10 topics
 - [25%] HW4: Week 11 to end.
-We do not release solutions for homework.
+We do not release solutions for homework. Some of our assignments will have bonus points and bonus points are weighted the same as the 'regular' assignments points. 
 
 {{< hint info >}}
 **Can you release homework early?** We understand that some students may prefer that homework assignments be released as soon as possible. Behind the scenes, our course staff work diligently to develop new questions, which means testing new datasets, new instructions, new auto graders, solution code, and more! Unfortunately, this means we likely cannot release assignments well in advance. We will release them as early as possible, hopefully some days before the scheduled release dates on our course schedule. When we release an assignment, we always announce it on Ed discussion.

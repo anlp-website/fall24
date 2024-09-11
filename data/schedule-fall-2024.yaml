@@ -138,7 +138,7 @@ tableRows:
     Topics:
       - " Sequence Labelling: POS Tagging"
       - " Sequen1e Labelling: NER "
-    Quizzes: "Quiz 8 | week 12| out 11/01 - due 11/08"
+    Quizzes: "Quiz 8 | week 11| out 11/01 - due 11/08"
 
   - 13:
     Week: 13
@@ -146,7 +146,7 @@ tableRows:
     Topics:
       - " Unsupervised Models"
       - "Topic Modeling (Latent Semantic Indexing, LDA (Latent Dirichlet Allocation)"
-    Quizzes: "Quiz 9 | week 13| out 11/08 - due 11/15"
+    Quizzes: "Quiz 9 | week 12| out 11/08 - due 11/15"
   - 14:
     Week: 14
     Dates: "11/18 - 11/22"
